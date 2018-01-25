@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "SfConfig\\": "sf/src",
+            "ZendConfig\\": "zend/src"
+        }
+    },
+    "require": {
+        "zendframework/zend-config": "^3.1",
+        "symfony/options-resolver": "^3"
+    }
+}
